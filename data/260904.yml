@@ -7,7 +7,7 @@ about:
   head: 59bf3fa
   archived: false
   latestVersion: v0.21.0
-  collectedAt: 2026-09-04T20:06:28Z
+  collectedAt: 2026-09-04T20:34:34Z
 timeline:
   created: 2016-10-17
   lastCommit: 2026-09-04
@@ -84,7 +84,7 @@ total:
   commit: 5673
 ---
 path: /home/runner/.x-repo/github.com/reviewdog/reviewdog
-collectedAt: 2026-09-04T20:06:30Z
+collectedAt: 2026-09-04T20:34:36Z
 loc:
   Go:
     code: 16573
