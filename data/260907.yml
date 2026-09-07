@@ -5,13 +5,13 @@ about:
   head: 3250b05
   archived: false
   latestVersion: "v0.21.0"
-  collectedAt: 2026-09-07T05:31:59Z
+  collectedAt: 2026-09-07T18:56:00Z
 timeline:
   created: 2016-10-17
   lastCommit: 2026-09-06
   lastRelease: 2025-09-03
 popularity:
-  star: 9568
+  star: 9570
   watcher: 64
   fork: 492
   release: 44
@@ -82,7 +82,7 @@ total:
   commit: 5681
 ---
 path: /home/runner/.x-repo/github.com/reviewdog/reviewdog
-collectedAt: 2026-09-07T05:32:02Z
+collectedAt: 2026-09-07T18:56:02Z
 loc:
   Go:
     code: 16573
@@ -259,7 +259,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yml:14'
 ---
 eget:
-  collectedAt: 2026-09-07T05:32:03+00:00
+  collectedAt: 2026-09-07T18:56:02+00:00
   platform:
     darwin/arm64:
       name:  reviewdog_0.21.0_Darwin_arm64.tar.gz
