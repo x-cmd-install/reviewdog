@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.21.0"
   latestRelease: "v0.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:43:28Z
+  collectedAt: 2026-09-09T19:57:19Z
 timeline:
   created: 2016-10-17
   lastCommit: 2026-09-09
@@ -21,7 +21,7 @@ popularity:
   release: 44
   contributor: 155
   pullRequest: 2418
-  issue: 326
+  issue: 327
 language:
   Go: 504291
   Shell: 15944
@@ -35,7 +35,7 @@ recent:
     mergedPR: 54
     openPR: 6
     closedIssue: 1
-    openIssue: 0
+    openIssue: 1
     commit: 53
   last60d:
     since: 2026-07-11
@@ -43,7 +43,7 @@ recent:
     mergedPR: 93
     openPR: 7
     closedIssue: 1
-    openIssue: 0
+    openIssue: 1
     commit: 95
   last90d:
     since: 2026-06-11
@@ -51,7 +51,7 @@ recent:
     mergedPR: 128
     openPR: 8
     closedIssue: 1
-    openIssue: 0
+    openIssue: 1
     commit: 137
   last180d:
     since: 2026-03-13
@@ -59,7 +59,7 @@ recent:
     mergedPR: 269
     openPR: 9
     closedIssue: 2
-    openIssue: 3
+    openIssue: 4
     commit: 276
   last360d:
     since: 2025-09-14
@@ -67,7 +67,7 @@ recent:
     mergedPR: 474
     openPR: 10
     closedIssue: 2
-    openIssue: 6
+    openIssue: 7
     commit: 486
   last720d:
     since: 2024-09-19
@@ -75,18 +75,18 @@ recent:
     mergedPR: 747
     openPR: 13
     closedIssue: 12
-    openIssue: 22
+    openIssue: 23
     commit: 1575
 total:
   release: 44
   mergedPR: 2228
   openPR: 14
   closedIssue: 199
-  openIssue: 127
+  openIssue: 128
   commit: 5694
 ---
 path: /home/runner/.x-repo/github.com/reviewdog/reviewdog
-collectedAt: 2026-09-09T05:43:30Z
+collectedAt: 2026-09-09T19:57:20Z
 loc:
   Go:
     code: 16573
