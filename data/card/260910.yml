@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.21.0"
   latestRelease: "v0.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:48:35Z
+  collectedAt: 2026-09-10T20:33:36Z
 timeline:
   created: 2016-10-17
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-09-03
   lastPrerelease: 
 popularity:
-  star: 9571
+  star: 9577
   watcher: 64
   fork: 492
   release: 44
@@ -86,7 +86,7 @@ total:
   commit: 5706
 ---
 path: /home/runner/.x-repo/github.com/reviewdog/reviewdog
-collectedAt: 2026-09-10T05:48:37Z
+collectedAt: 2026-09-10T20:33:38Z
 loc:
   Go:
     code: 16573
