@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1031,
       "digest": "sha256:097c045a125230799696cb9fbd64703339347fb902ce4cd3f5576ad59b5cc793",
-      "download_count": 9561943,
+      "download_count": 9579893,
       "created_at": "2025-09-03T15:41:11Z",
       "updated_at": "2025-09-03T15:41:11Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4333441,
       "digest": "sha256:c28def83af6c5aa8728d6d18160546afd3e5a219117715a2c6c023bd16f14d10",
-      "download_count": 353538,
+      "download_count": 354185,
       "created_at": "2025-09-03T15:41:10Z",
       "updated_at": "2025-09-03T15:41:11Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4627686,
       "digest": "sha256:9baadb110c87f22c55688cf4a966acce3006c7a4a962732d6c8b45234c454c6e",
-      "download_count": 10415,
+      "download_count": 10432,
       "created_at": "2025-09-03T15:41:10Z",
       "updated_at": "2025-09-03T15:41:10Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4130305,
       "digest": "sha256:b6aff657b39e9267a258e8fa66d616f7221aec5975d0251dac76043bad0fa177",
-      "download_count": 1474446,
+      "download_count": 1477908,
       "created_at": "2025-09-03T15:41:08Z",
       "updated_at": "2025-09-03T15:41:09Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4512428,
       "digest": "sha256:ad5ce7d5ffa52aaa7ec8710a8fa764181b6cecaab843cc791e1cce1680381569",
-      "download_count": 10533890,
+      "download_count": 10553134,
       "created_at": "2025-09-03T15:41:08Z",
       "updated_at": "2025-09-03T15:41:09Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4612432,
       "digest": "sha256:97c733e492dec1fd83b9342c25a384d5ab6ebfa72b6978346e9a436cad1853f6",
-      "download_count": 37960,
+      "download_count": 38133,
       "created_at": "2025-09-03T15:41:10Z",
       "updated_at": "2025-09-03T15:41:11Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_x86_64.tar.gz"
