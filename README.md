@@ -12,36 +12,7 @@
 x install reviewdog
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/reviewdog/reviewdog>
-- **Homepage**: <https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.21.0` (2025-09-03)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 11
-- **Published**: 2025-09-03T15:41:12Z
-
-## Popularity
-
-- **Stars**: 9,571 · **Forks**: 492 · **Open issues**: 327 · **Contributors**: 155
-
-## Totals (cumulative)
-
-- **Releases**: 44 · **Merged PRs**: 2234 · **Open PRs**: 14 · **Closed issues**: 199 · **Open issues**: 128 · **Commits**: 5706
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 59 | 6 | 1 | 1 | 59 |
-| 90d | 2026-06-12 | 0 | 132 | 8 | 1 | 1 | 143 |
-| 360d | 2025-09-15 | 0 | 480 | 10 | 2 | 7 | 492 |
-
-## Code size
+## Code insight
 
 Total: **26,068** lines of code across **165** files in the top 5 languages.
 
@@ -63,13 +34,68 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/reviewdog/reviewdog>
+- **Homepage**: <https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.21.0` (2025-09-03)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 9,577 · **Forks**: 492 · **Open issues**: 327 · **Contributors**: 155
+
+## Totals (cumulative)
+
+- **Releases**: 44 · **Merged PRs**: 2234 · **Open PRs**: 14 · **Closed issues**: 199 · **Open issues**: 128 · **Commits**: 5706
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 59 | 6 | 1 | 1 | 59 |
+| last60d | 2026-07-12 | 0 | 98 | 7 | 1 | 1 | 101 |
+| 90d | 2026-06-12 | 0 | 132 | 8 | 1 | 1 | 143 |
+| last180d | 2026-03-14 | 0 | 271 | 9 | 1 | 4 | 282 |
+| 360d | 2025-09-15 | 0 | 480 | 10 | 2 | 7 | 492 |
+| last720d | 2024-09-20 | 2 | 753 | 13 | 12 | 21 | 1586 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/checksums.txt) | 1.0 KiB | `other` |
+| [reviewdog_0.21.0_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [reviewdog_0.21.0_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [reviewdog_0.21.0_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [reviewdog_0.21.0_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_armv6.tar.gz) | 4.1 MiB | `native/linux/arm` |
+| [reviewdog_0.21.0_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_i386.tar.gz) | 4.2 MiB | `native/linux/x86` |
+| [reviewdog_0.21.0_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_x86_64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [reviewdog_0.21.0_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
+| [reviewdog_0.21.0_Windows_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_armv6.tar.gz) | 4.2 MiB | `native/win/x64` |
+| [reviewdog_0.21.0_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_i386.tar.gz) | 4.3 MiB | `native/win/x64` |
+| [reviewdog_0.21.0_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_x86_64.tar.gz) | 4.4 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **6** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.21.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reviewdog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/reviewdog.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/reviewdog.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:48:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:33:43Z._
