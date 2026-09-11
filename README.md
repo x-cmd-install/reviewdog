@@ -18,7 +18,7 @@ Total: **26,068** lines of code across **165** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 16,573 | 1,639 | 1,744 | 122 |
+| Go | 16,573 | 1,637 | 1,744 | 122 |
 | Json | 8,761 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.0` (2025-09-03)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 9,577 · **Forks**: 492 · **Open issues**: 327 · **Contributors**: 155
+- **Stars**: 9,578 · **Forks**: 492 · **Open issues**: 327 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 2235 · **Open PRs**: 14 · **Closed issues**: 199 · **Open issues**: 128 · **Commits**: 5708
+- **Releases**: 44 · **Merged PRs**: 2237 · **Open PRs**: 13 · **Closed issues**: 199 · **Open issues**: 128 · **Commits**: 5712
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 60 | 6 | 1 | 1 | 60 |
-| last60d | 2026-07-12 | 0 | 99 | 7 | 1 | 1 | 102 |
-| 90d | 2026-06-12 | 0 | 133 | 8 | 1 | 1 | 144 |
-| last180d | 2026-03-14 | 0 | 272 | 9 | 1 | 4 | 283 |
-| 360d | 2025-09-15 | 0 | 481 | 10 | 2 | 7 | 493 |
-| last720d | 2024-09-20 | 2 | 754 | 13 | 12 | 21 | 1588 |
+| 30d | 2026-08-12 | 0 | 60 | 5 | 1 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 101 | 6 | 1 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 135 | 7 | 1 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 272 | 8 | 1 | 4 | 0 |
+| 360d | 2025-09-16 | 0 | 480 | 9 | 2 | 6 | 0 |
+| last720d | 2024-09-21 | 2 | 755 | 12 | 12 | 21 | 1591 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:18:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:36:08Z._
