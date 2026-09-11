@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.21.0"
   latestRelease: "v0.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:35:52Z
+  collectedAt: 2026-09-11T19:17:36Z
 timeline:
   created: 2016-10-17
   lastCommit: 2026-09-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-09-03
   lastPrerelease: 
 popularity:
-  star: 9578
+  star: 9581
   watcher: 64
   fork: 492
   release: 44
@@ -36,7 +36,7 @@ recent:
     openPR: 5
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 62
   last60d:
     since: 2026-07-13
     release: 0
@@ -44,7 +44,7 @@ recent:
     openPR: 6
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 104
   last90d:
     since: 2026-06-13
     release: 0
@@ -52,7 +52,7 @@ recent:
     openPR: 7
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 146
   last180d:
     since: 2026-03-15
     release: 0
@@ -60,7 +60,7 @@ recent:
     openPR: 8
     closedIssue: 1
     openIssue: 4
-    commit: 0
+    commit: 285
   last360d:
     since: 2025-09-16
     release: 0
@@ -68,7 +68,7 @@ recent:
     openPR: 9
     closedIssue: 2
     openIssue: 6
-    commit: 0
+    commit: 495
   last720d:
     since: 2024-09-21
     release: 2
@@ -86,7 +86,7 @@ total:
   commit: 5712
 ---
 path: /home/runner/.x-repo/github.com/reviewdog/reviewdog
-collectedAt: 2026-09-11T05:35:56Z
+collectedAt: 2026-09-11T19:17:38Z
 loc:
   Go:
     code: 16573
