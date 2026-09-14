@@ -42,52 +42,43 @@ x install reviewdog
 
 ## 发布
 
-- **最新版本**: `v0.21.0` (2025-09-03)
-- **最近提交**: 2026-09-12
-- **Release 含资产**: 11 个
+- **最新版本**: `v0.21.1` (2026-09-13)
+- **最近提交**: 2026-09-13
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 9,581 · **Fork**: 492 · **开放 issue**: 327 · **贡献者**: 157
+- **Star**: 9,588 · **Fork**: 493 · **开放 issue**: 327 · **贡献者**: 157
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 2242 · **开放 PR**: 10 · **已关闭 issue**: 200 · **开放 issue**: 127 · **提交数**: 5727
+- **发布数**: 45 · **已合并 PR**: 2248 · **开放 PR**: 9 · **已关闭 issue**: 201 · **开放 issue**: 126 · **提交数**: 5744
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 57 | 4 | 1 | 1 | 56 |
-| last60d | 2026-07-15 | 0 | 99 | 4 | 1 | 1 | 101 |
-| 90d | 2026-06-15 | 0 | 140 | 4 | 1 | 1 | 149 |
-| last180d | 2026-03-17 | 0 | 274 | 4 | 1 | 4 | 285 |
-| 360d | 2025-09-18 | 0 | 478 | 6 | 2 | 6 | 499 |
-| last720d | 2024-09-23 | 2 | 759 | 9 | 12 | 20 | 1605 |
+| 30d | 2026-08-15 | 1 | 61 | 4 | 1 | 1 | 62 |
+| last60d | 2026-07-16 | 1 | 102 | 4 | 1 | 1 | 107 |
+| 90d | 2026-06-16 | 1 | 145 | 4 | 1 | 1 | 155 |
+| last180d | 2026-03-18 | 1 | 277 | 4 | 2 | 3 | 293 |
+| 360d | 2025-09-19 | 1 | 484 | 5 | 3 | 5 | 508 |
+| last720d | 2024-09-24 | 3 | 765 | 8 | 13 | 19 | 1620 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/checksums.txt) | 1.0 KiB | `other` |
-| [reviewdog_0.21.0_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [reviewdog_0.21.0_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Darwin_x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [reviewdog_0.21.0_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [reviewdog_0.21.0_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_armv6.tar.gz) | 4.1 MiB | `native/linux/arm` |
-| [reviewdog_0.21.0_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_i386.tar.gz) | 4.2 MiB | `native/linux/x86` |
-| [reviewdog_0.21.0_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Linux_x86_64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [reviewdog_0.21.0_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
-| [reviewdog_0.21.0_Windows_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_armv6.tar.gz) | 4.2 MiB | `native/win/x64` |
-| [reviewdog_0.21.0_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_i386.tar.gz) | 4.3 MiB | `native/win/x64` |
-| [reviewdog_0.21.0_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.0/reviewdog_0.21.0_Windows_x86_64.tar.gz) | 4.4 MiB | `native/win/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/reviewdog) 上共有 **9** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.21.0` | ✅ latest |
+| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/checksums.txt) | 927 B | `other` |
+| [reviewdog_0.21.1_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [reviewdog_0.21.1_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Darwin_x86_64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
+| [reviewdog_0.21.1_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [reviewdog_0.21.1_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_armv6.tar.gz) | 4.4 MiB | `native/linux/arm` |
+| [reviewdog_0.21.1_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
+| [reviewdog_0.21.1_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [reviewdog_0.21.1_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_arm64.tar.gz) | 4.2 MiB | `native/win/arm64` |
+| [reviewdog_0.21.1_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_i386.tar.gz) | 4.6 MiB | `native/win/x64` |
+| [reviewdog_0.21.1_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_x86_64.tar.gz) | 4.7 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -98,4 +89,4 @@ reviewdog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:47:21Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:06:50Z._
