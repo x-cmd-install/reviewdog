@@ -26,13 +26,13 @@ Total: **26,230** lines of code across **165** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 14 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.1` (2026-09-13)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,592 · **Forks**: 494 · **Open issues**: 326 · **Contributors**: 158
+- **Stars**: 9,596 · **Forks**: 494 · **Open issues**: 326 · **Contributors**: 158
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2255 · **Open PRs**: 9 · **Closed issues**: 204 · **Open issues**: 122 · **Commits**: 5766
+- **Releases**: 45 · **Merged PRs**: 2257 · **Open PRs**: 9 · **Closed issues**: 204 · **Open issues**: 122 · **Commits**: 5770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 64 | 5 | 1 | 0 | 70 |
-| last60d | 2026-07-18 | 1 | 104 | 5 | 1 | 0 | 115 |
-| 90d | 2026-06-18 | 1 | 149 | 5 | 1 | 0 | 163 |
-| last180d | 2026-03-20 | 1 | 279 | 5 | 3 | 1 | 301 |
-| 360d | 2025-09-21 | 1 | 491 | 5 | 4 | 3 | 521 |
-| last720d | 2024-09-26 | 3 | 772 | 8 | 15 | 16 | 1642 |
+| 30d | 2026-08-18 | 1 | 66 | 5 | 0 | 0 | 72 |
+| last60d | 2026-07-19 | 1 | 106 | 5 | 1 | 0 | 117 |
+| 90d | 2026-06-19 | 1 | 151 | 5 | 1 | 0 | 165 |
+| last180d | 2026-03-21 | 1 | 280 | 5 | 3 | 1 | 303 |
+| 360d | 2025-09-22 | 1 | 491 | 5 | 4 | 3 | 523 |
+| last720d | 2024-09-27 | 3 | 774 | 8 | 15 | 16 | 1646 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:02:13Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:03:12Z._

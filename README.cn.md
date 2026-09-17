@@ -26,13 +26,13 @@ x install reviewdog
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.9 / 10**
+总评分: **6.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 14 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install reviewdog
 ## 发布
 
 - **最新版本**: `v0.21.1` (2026-09-13)
-- **最近提交**: 2026-09-15
+- **最近提交**: 2026-09-17
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 9,592 · **Fork**: 494 · **开放 issue**: 326 · **贡献者**: 158
+- **Star**: 9,596 · **Fork**: 494 · **开放 issue**: 326 · **贡献者**: 158
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 2255 · **开放 PR**: 9 · **已关闭 issue**: 204 · **开放 issue**: 122 · **提交数**: 5766
+- **发布数**: 45 · **已合并 PR**: 2257 · **开放 PR**: 9 · **已关闭 issue**: 204 · **开放 issue**: 122 · **提交数**: 5770
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 64 | 5 | 1 | 0 | 70 |
-| last60d | 2026-07-18 | 1 | 104 | 5 | 1 | 0 | 115 |
-| 90d | 2026-06-18 | 1 | 149 | 5 | 1 | 0 | 163 |
-| last180d | 2026-03-20 | 1 | 279 | 5 | 3 | 1 | 301 |
-| 360d | 2025-09-21 | 1 | 491 | 5 | 4 | 3 | 521 |
-| last720d | 2024-09-26 | 3 | 772 | 8 | 15 | 16 | 1642 |
+| 30d | 2026-08-18 | 1 | 66 | 5 | 0 | 0 | 72 |
+| last60d | 2026-07-19 | 1 | 106 | 5 | 1 | 0 | 117 |
+| 90d | 2026-06-19 | 1 | 151 | 5 | 1 | 0 | 165 |
+| last180d | 2026-03-21 | 1 | 280 | 5 | 3 | 1 | 303 |
+| 360d | 2025-09-22 | 1 | 491 | 5 | 4 | 3 | 523 |
+| last720d | 2024-09-27 | 3 | 774 | 8 | 15 | 16 | 1646 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ reviewdog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:02:14Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:03:13Z._
