@@ -4,7 +4,7 @@
 
 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
-![reviewdog](https://repo.x-cmd.io/reviewdog.svg)
+[![x-cmd/install — reviewdog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/reviewdog.svg)](https://x-cmd.com/install/reviewdog)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install reviewdog
 
 ## Code insight
 
-Total: **26,230** lines of code across **165** files in the top 5 languages.
+Total: **26,401** lines of code across **165** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 16,735 | 1,643 | 1,767 | 122 |
+| Go | 16,906 | 1,657 | 1,777 | 122 |
 | Json | 8,761 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -42,43 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.21.1` (2026-09-13)
-- **Last commit**: 2026-09-18
+- **Latest**: `v0.21.2` (2026-09-18)
+- **Last commit**: 2026-09-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,597 · **Forks**: 495 · **Open issues**: 327 · **Contributors**: 158
+- **Stars**: 9,601 · **Forks**: 495 · **Open issues**: 327 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2260 · **Open PRs**: 10 · **Closed issues**: 204 · **Open issues**: 123 · **Commits**: 5776
+- **Releases**: 46 · **Merged PRs**: 2271 · **Open PRs**: 7 · **Closed issues**: 207 · **Open issues**: 120 · **Commits**: 5803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 65 | 6 | 0 | 1 | 75 |
-| last60d | 2026-07-20 | 1 | 108 | 6 | 1 | 1 | 120 |
-| 90d | 2026-06-20 | 1 | 153 | 6 | 1 | 1 | 168 |
-| last180d | 2026-03-22 | 1 | 283 | 6 | 3 | 2 | 306 |
-| 360d | 2025-09-23 | 1 | 493 | 6 | 4 | 4 | 526 |
-| last720d | 2024-09-28 | 3 | 777 | 9 | 15 | 17 | 1652 |
+| 30d | 2026-08-21 | 2 | 70 | 3 | 1 | 0 | 89 |
+| last60d | 2026-07-22 | 2 | 113 | 3 | 2 | 0 | 134 |
+| 90d | 2026-06-22 | 2 | 160 | 3 | 2 | 0 | 182 |
+| last180d | 2026-03-24 | 2 | 291 | 3 | 4 | 1 | 320 |
+| 360d | 2025-09-25 | 2 | 502 | 3 | 5 | 3 | 540 |
+| last720d | 2024-09-30 | 4 | 788 | 6 | 16 | 16 | 1679 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/checksums.txt) | 927 B | `other` |
-| [reviewdog_0.21.1_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [reviewdog_0.21.1_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Darwin_x86_64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
-| [reviewdog_0.21.1_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [reviewdog_0.21.1_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_armv6.tar.gz) | 4.4 MiB | `native/linux/arm` |
-| [reviewdog_0.21.1_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [reviewdog_0.21.1_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
-| [reviewdog_0.21.1_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_arm64.tar.gz) | 4.2 MiB | `native/win/arm64` |
-| [reviewdog_0.21.1_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_i386.tar.gz) | 4.6 MiB | `native/win/x64` |
-| [reviewdog_0.21.1_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.1/reviewdog_0.21.1_Windows_x86_64.tar.gz) | 4.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/checksums.txt) | 927 B | `other` |
+| [reviewdog_0.21.2_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [reviewdog_0.21.2_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Darwin_x86_64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
+| [reviewdog_0.21.2_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [reviewdog_0.21.2_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_armv6.tar.gz) | 4.4 MiB | `native/linux/arm` |
+| [reviewdog_0.21.2_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
+| [reviewdog_0.21.2_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [reviewdog_0.21.2_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_arm64.tar.gz) | 4.2 MiB | `native/win/arm64` |
+| [reviewdog_0.21.2_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_i386.tar.gz) | 4.6 MiB | `native/win/x64` |
+| [reviewdog_0.21.2_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_x86_64.tar.gz) | 4.7 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:50:08Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:51:46Z._
