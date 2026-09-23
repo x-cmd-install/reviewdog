@@ -4,7 +4,7 @@
 
 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
-[![x-cmd/install — reviewdog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/reviewdog.svg?lang=zh)](https://x-cmd.com/install/reviewdog)
+[![x-cmd/install — reviewdog Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/reviewdog.svg?lang=zh)](https://x-cmd.com/install/reviewdog)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install reviewdog
 
 ## 代码洞察
 
-合计: **26,401** 行代码（覆盖前 5 种语言、共 **165** 个文件）。
+合计: **26,791** 行代码（覆盖前 5 种语言、共 **165** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 16,906 | 1,657 | 1,777 | 122 |
+| Go | 17,296 | 1,717 | 1,793 | 122 |
 | Json | 8,761 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -48,22 +48,22 @@ x install reviewdog
 
 ## 流行度
 
-- **Star**: 9,607 · **Fork**: 496 · **开放 issue**: 328 · **贡献者**: 160
+- **Star**: 9,614 · **Fork**: 498 · **开放 issue**: 330 · **贡献者**: 162
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 2272 · **开放 PR**: 9 · **已关闭 issue**: 207 · **开放 issue**: 121 · **提交数**: 5805
+- **发布数**: 46 · **已合并 PR**: 2275 · **开放 PR**: 6 · **已关闭 issue**: 209 · **开放 issue**: 121 · **提交数**: 5817
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 70 | 5 | 1 | 1 | 77 |
-| last60d | 2026-07-24 | 2 | 112 | 5 | 2 | 1 | 128 |
-| 90d | 2026-06-24 | 2 | 155 | 5 | 2 | 1 | 176 |
-| last180d | 2026-03-26 | 2 | 289 | 5 | 4 | 2 | 306 |
-| 360d | 2025-09-27 | 2 | 501 | 5 | 5 | 4 | 536 |
-| last720d | 2024-10-02 | 4 | 787 | 8 | 16 | 17 | 1681 |
+| 30d | 2026-08-24 | 2 | 72 | 3 | 1 | 3 | 85 |
+| last60d | 2026-07-25 | 2 | 114 | 3 | 2 | 3 | 136 |
+| 90d | 2026-06-25 | 2 | 156 | 3 | 2 | 3 | 184 |
+| last180d | 2026-03-27 | 2 | 287 | 3 | 4 | 4 | 314 |
+| 360d | 2025-09-28 | 2 | 503 | 3 | 5 | 6 | 544 |
+| last720d | 2024-10-03 | 4 | 789 | 5 | 18 | 17 | 1688 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ reviewdog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:14:25Z._
