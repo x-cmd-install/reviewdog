@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,639 · **Forks**: 503 · **Open issues**: 334 · **Contributors**: 165
+- **Stars**: 9,643 · **Forks**: 504 · **Open issues**: 334 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 2304 · **Open PRs**: 10 · **Closed issues**: 211 · **Open issues**: 123 · **Commits**: 5887
+- **Releases**: 46 · **Merged PRs**: 2304 · **Open PRs**: 11 · **Closed issues**: 211 · **Open issues**: 123 · **Commits**: 5887
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 73 | 5 | 3 | 5 | 83 |
-| last60d | 2026-08-08 | 2 | 128 | 7 | 4 | 5 | 154 |
-| 90d | 2026-07-09 | 2 | 166 | 7 | 4 | 5 | 195 |
-| last180d | 2026-04-10 | 2 | 297 | 7 | 5 | 6 | 334 |
-| 360d | 2025-10-12 | 2 | 508 | 7 | 7 | 8 | 555 |
-| last720d | 2024-10-17 | 4 | 813 | 9 | 19 | 18 | 1748 |
+| 30d | 2026-09-08 | 2 | 67 | 6 | 3 | 5 | 83 |
+| last60d | 2026-08-09 | 2 | 127 | 8 | 4 | 5 | 154 |
+| 90d | 2026-07-10 | 2 | 165 | 8 | 4 | 5 | 195 |
+| last180d | 2026-04-11 | 2 | 296 | 8 | 5 | 6 | 334 |
+| 360d | 2025-10-13 | 2 | 506 | 8 | 7 | 8 | 555 |
+| last720d | 2024-10-18 | 4 | 813 | 10 | 19 | 18 | 1748 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:43:18Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:59:10Z._
