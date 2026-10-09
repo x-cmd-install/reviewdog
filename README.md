@@ -14,11 +14,11 @@ x install reviewdog
 
 ## Code insight
 
-Total: **27,072** lines of code across **168** files in the top 5 languages.
+Total: **27,222** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,573 | 1,719 | 1,814 | 125 |
+| Go | 17,723 | 1,728 | 1,824 | 125 |
 | Json | 8,765 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.2` (2026-09-18)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-09
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,643 · **Forks**: 504 · **Open issues**: 334 · **Contributors**: 165
+- **Stars**: 9,649 · **Forks**: 503 · **Open issues**: 334 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 2304 · **Open PRs**: 11 · **Closed issues**: 211 · **Open issues**: 123 · **Commits**: 5887
+- **Releases**: 46 · **Merged PRs**: 2307 · **Open PRs**: 9 · **Closed issues**: 212 · **Open issues**: 122 · **Commits**: 5904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 67 | 6 | 3 | 5 | 83 |
-| last60d | 2026-08-09 | 2 | 127 | 8 | 4 | 5 | 154 |
-| 90d | 2026-07-10 | 2 | 165 | 8 | 4 | 5 | 195 |
-| last180d | 2026-04-11 | 2 | 296 | 8 | 5 | 6 | 334 |
-| 360d | 2025-10-13 | 2 | 506 | 8 | 7 | 8 | 555 |
-| last720d | 2024-10-18 | 4 | 813 | 10 | 19 | 18 | 1748 |
+| 30d | 2026-09-09 | 2 | 67 | 4 | 4 | 4 | 87 |
+| last60d | 2026-08-10 | 2 | 128 | 6 | 5 | 4 | 158 |
+| 90d | 2026-07-11 | 2 | 168 | 6 | 5 | 4 | 199 |
+| last180d | 2026-04-12 | 2 | 299 | 6 | 6 | 5 | 338 |
+| 360d | 2025-10-14 | 2 | 506 | 6 | 8 | 7 | 559 |
+| last720d | 2024-10-19 | 4 | 816 | 8 | 20 | 17 | 1765 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:59:10Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:57:20Z._
