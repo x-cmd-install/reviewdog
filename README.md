@@ -14,11 +14,11 @@ x install reviewdog
 
 ## Code insight
 
-Total: **27,222** lines of code across **168** files in the top 5 languages.
+Total: **27,276** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,723 | 1,728 | 1,824 | 125 |
+| Go | 17,777 | 1,734 | 1,828 | 125 |
 | Json | 8,765 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.2` (2026-09-18)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,686 · **Forks**: 507 · **Open issues**: 334 · **Contributors**: 168
+- **Stars**: 9,686 · **Forks**: 508 · **Open issues**: 335 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 2344 · **Open PRs**: 11 · **Closed issues**: 213 · **Open issues**: 121 · **Commits**: 5970
+- **Releases**: 46 · **Merged PRs**: 2348 · **Open PRs**: 12 · **Closed issues**: 213 · **Open issues**: 122 · **Commits**: 5978
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 69 | 5 | 3 | 1 | 80 |
-| last60d | 2026-08-23 | 2 | 141 | 8 | 5 | 3 | 170 |
-| 90d | 2026-07-24 | 2 | 183 | 8 | 6 | 3 | 217 |
-| last180d | 2026-04-25 | 2 | 320 | 8 | 6 | 4 | 359 |
-| 360d | 2025-10-27 | 2 | 535 | 8 | 9 | 6 | 589 |
-| last720d | 2024-11-01 | 4 | 850 | 10 | 19 | 14 | 1826 |
+| 30d | 2026-09-23 | 0 | 73 | 6 | 3 | 2 | 84 |
+| last60d | 2026-08-24 | 2 | 145 | 9 | 5 | 4 | 174 |
+| 90d | 2026-07-25 | 2 | 187 | 9 | 6 | 4 | 221 |
+| last180d | 2026-04-26 | 2 | 323 | 9 | 6 | 5 | 363 |
+| 360d | 2025-10-28 | 2 | 538 | 9 | 9 | 7 | 593 |
+| last720d | 2024-11-02 | 4 | 854 | 11 | 19 | 15 | 1834 |
 
 ## Release assets
 
@@ -80,6 +80,14 @@ Lowest-scoring checks:
 | [reviewdog_0.21.2_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_i386.tar.gz) | 4.6 MiB | `native/win/x64` |
 | [reviewdog_0.21.2_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_x86_64.tar.gz) | 4.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.21.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reviewdog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +97,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:35:18Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:35:58Z._
