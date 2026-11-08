@@ -42,51 +42,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.21.2` (2026-09-18)
-- **Last commit**: 2026-11-06
+- **Latest**: `v0.21.3` (2026-11-07)
+- **Last commit**: 2026-11-08
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,727 · **Forks**: 513 · **Open issues**: 336 · **Contributors**: 171
+- **Stars**: 9,726 · **Forks**: 513 · **Open issues**: 336 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 2387 · **Open PRs**: 16 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6066
+- **Releases**: 47 · **Merged PRs**: 2394 · **Open PRs**: 15 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 74 | 9 | 2 | 0 | 82 |
-| last60d | 2026-09-08 | 2 | 149 | 12 | 8 | 2 | 183 |
-| 90d | 2026-08-09 | 2 | 209 | 14 | 9 | 2 | 249 |
-| last180d | 2026-05-11 | 2 | 336 | 14 | 9 | 3 | 387 |
-| 360d | 2025-11-12 | 2 | 568 | 14 | 12 | 5 | 630 |
-| last720d | 2024-11-17 | 4 | 883 | 15 | 21 | 13 | 1905 |
+| 30d | 2026-10-09 | 1 | 78 | 8 | 2 | 0 | 75 |
+| last60d | 2026-09-09 | 3 | 153 | 11 | 8 | 2 | 160 |
+| 90d | 2026-08-10 | 3 | 214 | 13 | 9 | 2 | 245 |
+| last180d | 2026-05-12 | 3 | 343 | 13 | 9 | 3 | 383 |
+| 360d | 2025-11-13 | 3 | 573 | 13 | 12 | 5 | 629 |
+| last720d | 2024-11-18 | 5 | 889 | 14 | 21 | 13 | 1921 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/checksums.txt) | 927 B | `other` |
-| [reviewdog_0.21.2_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [reviewdog_0.21.2_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Darwin_x86_64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
-| [reviewdog_0.21.2_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [reviewdog_0.21.2_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_armv6.tar.gz) | 4.4 MiB | `native/linux/arm` |
-| [reviewdog_0.21.2_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_i386.tar.gz) | 4.4 MiB | `native/linux/x86` |
-| [reviewdog_0.21.2_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
-| [reviewdog_0.21.2_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_arm64.tar.gz) | 4.2 MiB | `native/win/arm64` |
-| [reviewdog_0.21.2_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_i386.tar.gz) | 4.6 MiB | `native/win/x64` |
-| [reviewdog_0.21.2_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.2/reviewdog_0.21.2_Windows_x86_64.tar.gz) | 4.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/checksums.txt) | 927 B | `other` |
+| [reviewdog_0.21.3_Darwin_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [reviewdog_0.21.3_Darwin_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Darwin_x86_64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [reviewdog_0.21.3_Linux_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
+| [reviewdog_0.21.3_Linux_armv6.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_armv6.tar.gz) | 4.6 MiB | `native/linux/arm` |
+| [reviewdog_0.21.3_Linux_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_i386.tar.gz) | 4.7 MiB | `native/linux/x86` |
+| [reviewdog_0.21.3_Linux_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_x86_64.tar.gz) | 4.8 MiB | `native/linux/x64` |
+| [reviewdog_0.21.3_Windows_arm64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_arm64.tar.gz) | 4.5 MiB | `native/win/arm64` |
+| [reviewdog_0.21.3_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_i386.tar.gz) | 4.9 MiB | `native/win/x64` |
+| [reviewdog_0.21.3_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_x86_64.tar.gz) | 5.0 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.21.2` | ✅ latest |
+| Nix unstable | `0.21.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -97,4 +97,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:55:12Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:46:51Z._
