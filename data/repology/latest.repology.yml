@@ -4,7 +4,7 @@
   visiblename: reviewdog
   version: 0.21.2
   origversion: 0.21.2-1
-  status: newest
+  status: outdated
   summary: "\U0001F436 Automated code review tool integrated with any code analysis tools regardless of programming language"
   maintainers:
     - barbuk@aur
@@ -14,8 +14,8 @@
   srcname: reviewdog-bin
   binname: reviewdog-bin
   visiblename: reviewdog-bin
-  version: 0.21.2
-  origversion: 0.21.2-1
+  version: 0.21.3
+  origversion: 0.21.3-1
   status: newest
   summary: Automated code review tool integrated with any code analysis tools regardless of programming language
   maintainers:
@@ -82,7 +82,7 @@
   visiblename: reviewdog
   version: 0.21.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Automated code review tool integrated with any code analysis tools regardless of programming language
   maintainers:
     - fallback-mnt-nix@repology
@@ -92,7 +92,7 @@
   subrepo: main
   binname: reviewdog
   visiblename: reviewdog
-  version: 0.21.2
+  version: 0.21.3
   origversion: null
   status: newest
   licenses:
