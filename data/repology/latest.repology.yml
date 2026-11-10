@@ -2,9 +2,9 @@
   srcname: reviewdog
   binname: reviewdog
   visiblename: reviewdog
-  version: 0.21.2
-  origversion: 0.21.2-1
-  status: outdated
+  version: 0.21.3
+  origversion: 0.21.3-1
+  status: newest
   summary: "\U0001F436 Automated code review tool integrated with any code analysis tools regardless of programming language"
   maintainers:
     - barbuk@aur
