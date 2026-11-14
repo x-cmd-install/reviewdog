@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 927,
       "digest": "sha256:530e85c452d28c3a71227dbed6822a3d2e18d8e279846975fce96b4d0afd4109",
-      "download_count": 193207,
+      "download_count": 228908,
       "created_at": "2026-11-07T13:24:58Z",
       "updated_at": "2026-11-07T13:24:58Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4878279,
       "digest": "sha256:c2a393e438e1d6dfe64e4a5ee103f1f1e839fff605f26686d6a7083770cd0afd",
-      "download_count": 7012,
+      "download_count": 7927,
       "created_at": "2026-11-07T13:24:57Z",
       "updated_at": "2026-11-07T13:24:57Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5236943,
       "digest": "sha256:ca114007f4562062b4b54b422d8d2d21317b548ec64b7848e7e2aea52e490abd",
-      "download_count": 80,
+      "download_count": 88,
       "created_at": "2026-11-07T13:24:56Z",
       "updated_at": "2026-11-07T13:24:56Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4615375,
       "digest": "sha256:bf84e546444cbb0325f1f2c6151549c79673117573b737884ba8ecbe9d04dc85",
-      "download_count": 30182,
+      "download_count": 36115,
       "created_at": "2026-11-07T13:24:57Z",
       "updated_at": "2026-11-07T13:24:57Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4870871,
       "digest": "sha256:b0ad7d1de4872273912a9b3081d747fd261b5ab77f5d8202b427f5ee3436967f",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-07T13:24:57Z",
       "updated_at": "2026-11-07T13:24:57Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_armv6.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4902510,
       "digest": "sha256:71ca34ec95ae6cba967be067b08c061124c85e63ae734036c372ad59a1c90ff8",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-07T13:24:56Z",
       "updated_at": "2026-11-07T13:24:56Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_i386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5074994,
       "digest": "sha256:7029c2faf54e1237454cae8f1adf876c965b3d13d054f1a392206459091af4a1",
-      "download_count": 205519,
+      "download_count": 241377,
       "created_at": "2026-11-07T13:24:56Z",
       "updated_at": "2026-11-07T13:24:56Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4682078,
       "digest": "sha256:837f7fd4401283901d660c127c4bf802e16d7f68304c88490828defaf9bb2390",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-11-07T13:24:58Z",
       "updated_at": "2026-11-07T13:24:58Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5119981,
       "digest": "sha256:45efb457eeabca6f4a8beaa4d75426dae46a04fb8e66ce03a74131a850a56c6d",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-11-07T13:24:56Z",
       "updated_at": "2026-11-07T13:24:57Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_i386.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5209584,
       "digest": "sha256:055ef6db0cbe744a118fc67e6f5927cbe1f2e7b4d60ab2a68934d8492ff1569a",
-      "download_count": 610,
+      "download_count": 714,
       "created_at": "2026-11-07T13:24:57Z",
       "updated_at": "2026-11-07T13:24:57Z",
       "browser_download_url": "https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_x86_64.tar.gz"
