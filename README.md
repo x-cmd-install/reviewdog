@@ -26,13 +26,13 @@ Total: **28,210** lines of code across **171** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.3` (2026-11-07)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,747 · **Forks**: 518 · **Open issues**: 336 · **Contributors**: 175
+- **Stars**: 9,752 · **Forks**: 519 · **Open issues**: 336 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 2428 · **Open PRs**: 13 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6172
+- **Releases**: 47 · **Merged PRs**: 2433 · **Open PRs**: 15 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 96 | 6 | 2 | 0 | 88 |
-| last60d | 2026-09-18 | 2 | 159 | 9 | 7 | 2 | 176 |
-| 90d | 2026-08-19 | 3 | 231 | 11 | 8 | 2 | 269 |
-| last180d | 2026-05-21 | 3 | 359 | 11 | 9 | 3 | 405 |
-| 360d | 2025-11-22 | 3 | 597 | 11 | 12 | 5 | 661 |
-| last720d | 2024-11-27 | 5 | 921 | 12 | 21 | 13 | 1998 |
+| 30d | 2026-10-20 | 1 | 94 | 8 | 2 | 0 | 93 |
+| last60d | 2026-09-20 | 1 | 159 | 11 | 6 | 2 | 181 |
+| 90d | 2026-08-21 | 3 | 230 | 13 | 8 | 2 | 274 |
+| last180d | 2026-05-23 | 3 | 359 | 13 | 9 | 3 | 410 |
+| 360d | 2025-11-24 | 3 | 598 | 13 | 12 | 5 | 666 |
+| last720d | 2024-11-29 | 5 | 926 | 14 | 21 | 13 | 2008 |
 
 ## Release assets
 
@@ -80,6 +80,14 @@ Lowest-scoring checks:
 | [reviewdog_0.21.3_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_i386.tar.gz) | 4.9 MiB | `native/win/x64` |
 | [reviewdog_0.21.3_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_x86_64.tar.gz) | 5.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.21.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reviewdog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +97,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:40:39Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:45Z._
