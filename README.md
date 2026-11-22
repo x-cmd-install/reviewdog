@@ -14,11 +14,11 @@ x install reviewdog
 
 ## Code insight
 
-Total: **28,522** lines of code across **171** files in the top 5 languages.
+Total: **28,821** lines of code across **171** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,022 | 1,784 | 1,875 | 128 |
+| Go | 19,321 | 1,818 | 1,896 | 128 |
 | Json | 8,766 | 0 | 0 | 31 |
 | Sh | 484 | 44 | 48 | 4 |
 | Html | 145 | 4 | 23 | 6 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 2439 · **Open PRs**: 14 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6205
+- **Releases**: 47 · **Merged PRs**: 2443 · **Open PRs**: 12 · **Closed issues**: 217 · **Open issues**: 119 · **Commits**: 6218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 89 | 7 | 1 | 0 | 0 |
-| last60d | 2026-09-22 | 1 | 163 | 9 | 5 | 1 | 0 |
-| 90d | 2026-08-23 | 3 | 235 | 12 | 8 | 2 | 0 |
-| last180d | 2026-05-25 | 3 | 364 | 12 | 9 | 3 | 0 |
-| 360d | 2025-11-26 | 3 | 604 | 12 | 12 | 5 | 0 |
-| last720d | 2024-12-01 | 5 | 932 | 13 | 21 | 13 | 2031 |
+| 30d | 2026-10-23 | 1 | 90 | 5 | 1 | 0 | 82 |
+| last60d | 2026-09-23 | 1 | 167 | 7 | 5 | 1 | 186 |
+| 90d | 2026-08-24 | 3 | 239 | 10 | 8 | 2 | 279 |
+| last180d | 2026-05-26 | 3 | 367 | 10 | 9 | 3 | 419 |
+| 360d | 2025-11-27 | 3 | 608 | 10 | 12 | 5 | 677 |
+| last720d | 2024-12-02 | 5 | 936 | 11 | 21 | 13 | 2044 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:27:16Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:48:55Z._
