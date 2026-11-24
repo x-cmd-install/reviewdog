@@ -80,9 +80,9 @@
 - repo: nix_unstable
   srcname: reviewdog
   visiblename: reviewdog
-  version: 0.21.2
+  version: 0.21.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Automated code review tool integrated with any code analysis tools regardless of programming language
   maintainers:
     - fallback-mnt-nix@repology
