@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.3` (2026-11-07)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,759 · **Forks**: 519 · **Open issues**: 336 · **Contributors**: 178
+- **Stars**: 9,760 · **Forks**: 519 · **Open issues**: 336 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 2444 · **Open PRs**: 11 · **Closed issues**: 218 · **Open issues**: 118 · **Commits**: 6220
+- **Releases**: 47 · **Merged PRs**: 2441 · **Open PRs**: 11 · **Closed issues**: 218 · **Open issues**: 118 · **Commits**: 6224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 87 | 5 | 1 | 0 | 82 |
-| last60d | 2026-09-24 | 1 | 167 | 6 | 6 | 0 | 187 |
-| 90d | 2026-08-25 | 3 | 238 | 9 | 9 | 1 | 280 |
-| last180d | 2026-05-27 | 3 | 364 | 9 | 10 | 2 | 420 |
-| 360d | 2025-11-28 | 3 | 607 | 9 | 13 | 4 | 678 |
-| last720d | 2024-12-03 | 5 | 937 | 10 | 22 | 12 | 2046 |
+| 30d | 2026-10-25 | 1 | 87 | 5 | 1 | 0 | 84 |
+| last60d | 2026-09-25 | 1 | 159 | 6 | 6 | 0 | 184 |
+| 90d | 2026-08-26 | 3 | 232 | 9 | 9 | 1 | 277 |
+| last180d | 2026-05-28 | 3 | 360 | 9 | 10 | 2 | 417 |
+| 360d | 2025-11-29 | 3 | 604 | 9 | 13 | 4 | 675 |
+| last720d | 2024-12-04 | 5 | 929 | 10 | 22 | 12 | 2050 |
 
 ## Release assets
 
@@ -82,11 +82,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.21.2` | ⚠️ outdated |
+| Nix unstable | `0.21.3` | ✅ latest |
 
 ## Improve this data
 
@@ -97,4 +97,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:52:58Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:37Z._
