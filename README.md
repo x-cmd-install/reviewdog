@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.3` (2026-11-07)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 9,760 · **Forks**: 519 · **Open issues**: 336 · **Contributors**: 177
+- **Stars**: 9,764 · **Forks**: 519 · **Open issues**: 336 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 2441 · **Open PRs**: 11 · **Closed issues**: 218 · **Open issues**: 118 · **Commits**: 6224
+- **Releases**: 47 · **Merged PRs**: 2444 · **Open PRs**: 11 · **Closed issues**: 218 · **Open issues**: 118 · **Commits**: 6230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 87 | 5 | 1 | 0 | 84 |
-| last60d | 2026-09-25 | 1 | 159 | 6 | 6 | 0 | 184 |
-| 90d | 2026-08-26 | 3 | 232 | 9 | 9 | 1 | 277 |
-| last180d | 2026-05-28 | 3 | 360 | 9 | 10 | 2 | 417 |
-| 360d | 2025-11-29 | 3 | 604 | 9 | 13 | 4 | 675 |
-| last720d | 2024-12-04 | 5 | 929 | 10 | 22 | 12 | 2050 |
+| 30d | 2026-10-26 | 1 | 89 | 5 | 1 | 0 | 87 |
+| last60d | 2026-09-26 | 1 | 162 | 6 | 6 | 0 | 187 |
+| 90d | 2026-08-27 | 3 | 233 | 9 | 9 | 1 | 280 |
+| last180d | 2026-05-29 | 3 | 361 | 9 | 10 | 2 | 420 |
+| 360d | 2025-11-30 | 3 | 607 | 9 | 13 | 4 | 678 |
+| last720d | 2024-12-05 | 4 | 931 | 10 | 22 | 12 | 2045 |
 
 ## Release assets
 
@@ -80,14 +80,6 @@ Lowest-scoring checks:
 | [reviewdog_0.21.3_Windows_i386.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_i386.tar.gz) | 4.9 MiB | `native/win/x64` |
 | [reviewdog_0.21.3_Windows_x86_64.tar.gz](https://github.com/reviewdog/reviewdog/releases/download/v0.21.3/reviewdog_0.21.3_Windows_x86_64.tar.gz) | 5.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/reviewdog). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.21.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reviewdog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +89,4 @@ Install metadata for reviewdog lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:40:49Z._
